@@ -59,3 +59,7 @@ Open `http://localhost:3000` on the host computer. To test phones on the same Wi
 **Host:** Create room → wait for six players (3 per team) → Start Game → Start Timer → Stop Timer if needed → Reveal Answer → Select winning team → Next Round.
 
 **Players:** Enter room code, name, team → Join → optionally choose captain → submit answer while round is live.
+
+
+### Host answer visibility fix
+Player submitted answers are now streamed live to the Host Dashboard under **Player Submitted Answers**. This panel is host-only and displays player name, team, and submitted answer before reveal. It clears when the next round starts.

@@ -51,6 +51,7 @@ io.on('connection',socket=>{
   room.submissions=room.submissions||[];room.submissions.push({player:p.name,team:p.team,answer,at:Date.now()});
   socket.emit('answer:result',{correct:null,message:'Answer submitted. Wait for the host to reveal the answer.'});
   io.to(room.code).emit('answer:submitted',{player:p.name,team:p.team});
+  io.to(room.hostId).emit('host:submissions:update',{set:room.set,round:room.round,submissions:room.submissions.map(s=>({player:s.player,team:s.team,answer:s.answer,at:s.at}))});
  });
  socket.on('host:reveal',()=>{const room=rooms.get(socket.data.room);if(!room||room.hostId!==socket.id||!room.question)return;room.question.revealed=true;room.notice=`Answer revealed: ${room.question.answer}`;emitRoom(room)});
  socket.on('host:award',({team})=>{const room=rooms.get(socket.data.room);if(!room||room.hostId!==socket.id)return;if(!room.question||!room.question.revealed)return;if(!['A','B'].includes(team)||room.roundWinner)return;room.roundWinner=team;room.scores[team]+=Number(room.question.xp)||0;stopTimer(room);room.timer=0;room.notice=`Host awarded this round to Team ${team}. +${Number(room.question.xp).toLocaleString()} XP`;emitRoom(room)});
