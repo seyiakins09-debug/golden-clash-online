@@ -16,8 +16,8 @@ io.on('connection',s=>{
  switch(d.a){
  case 'start':if(r.active)return s.emit('err','Finish the current set before starting another.');r.active=true;r.setNo=Math.max(1,Math.min(30,+d.set||1));r.round=-1;closeRound(r);r.players.forEach(p=>{p.xp=0;p.awards=0;p.submitted=''});break;
  case 'open':if(!r.active||r.open)return s.emit('err','Close the current round before opening the next.');if(+d.round!==r.round+1||r.round>=9)return s.emit('err','Use Next Round to open rounds in order.');r.round=+d.round;r.open=true;r.reveal=false;r.challenge=d.q;r.submissions=[];r.players.forEach(p=>p.submitted='');endTimer(r);r.timer=setTimeout(()=>{if(r.open){r.open=false;r.reveal=false;io.to(r.code).emit('timerEnded');broadcast(r)}},40000);break;
- case 'close':closeRound(r);break;
- case 'reveal':if(!r.open)return s.emit('err','No open round to reveal.');endTimer(r);r.reveal=true;io.to(r.code).emit('revealedAnswers',r.submissions);break;
+ case 'close':if(!r.challenge)return s.emit('err','No round has been opened yet.');endTimer(r);r.open=false;break;
+ case 'reveal':if(!r.challenge||r.round<0)return s.emit('err','No round has been opened to reveal.');endTimer(r);r.open=false;r.reveal=true;io.to(r.code).emit('revealedAnswers',r.submissions);break;
  case 'awardWinner':if(!r.reveal||!r.challenge)return s.emit('err','Reveal the answer before awarding XP.');{let p=r.players.get(d.id);if(!p)return s.emit('err','Select a player.');if(p.awardedRound===r.round)return s.emit('err','This player has already received XP for this round.');p.xp+=r.challenge.xp;p.awards++;p.awardedRound=r.round;io.to(r.code).emit('winnerAwarded',{name:p.name,xp:r.challenge.xp});}break;
  case 'finish':if(!r.active)return s.emit('err','No active set.');r.active=false;closeRound(r);break;
  case 'reset':endTimer(r);io.to(r.code).emit('ended');rooms.delete(r.code);return;
