@@ -1,0 +1,3602 @@
+[
+  {
+    "set": 1,
+    "round": 1,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 2, 7, 12, 17, 2, 7, 12. What is their sum?",
+    "answer": "59",
+    "acceptedAnswers": [
+      "59"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 2,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 34 tokens. Team A has 18 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "16",
+    "acceptedAnswers": [
+      "16"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 3,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 10 rows with 5 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "44",
+    "acceptedAnswers": [
+      "44"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 4,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 7, then subtract 28; the result is 77. What number am I?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 5,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 6,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 36 supplies are shared equally among 6 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 7,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 5 points. A risky move doubles your points but costs 14 points as a fee. What is your final score if you take the risk?",
+    "answer": "-4",
+    "acceptedAnswers": [
+      "-4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 8,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 13x + 8 = 34.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 9,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (25 \u00d7 49) \u2212 (5 \u00d7 4). Give the exact number.",
+    "answer": "1205",
+    "acceptedAnswers": [
+      "1205"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 1,
+    "round": 10,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 14, 18, 22, 26, 30, 34, 38, 42, 46, __. What is the next number?",
+    "answer": "50",
+    "acceptedAnswers": [
+      "50"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 1,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 33 tokens. Team A has 22 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 2,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 13 rows with 4 gold bars in each row. 7 bars are removed. How many remain?",
+    "answer": "45",
+    "acceptedAnswers": [
+      "45"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 3,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 7, then subtract 49; the result is 14. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 4,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 5,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 45 supplies are shared equally among 15 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 6,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 8 points. A risky move doubles your points but costs 5 points as a fee. What is your final score if you take the risk?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 7,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 10x + 16 = 36.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 8,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (27 \u00d7 18) \u2212 (14 \u00d7 4). Give the exact number.",
+    "answer": "430",
+    "acceptedAnswers": [
+      "430"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 9,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 13, 17, 21, 25, __. What is the next number?",
+    "answer": "29",
+    "acceptedAnswers": [
+      "29"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 2,
+    "round": 10,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 11, 16, 1, 6. What is their sum?",
+    "answer": "34",
+    "acceptedAnswers": [
+      "34"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 1,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 4 rows with 3 gold bars in each row. 1 bars are removed. How many remain?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 2,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 7, then subtract 28; the result is -7. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 3,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 4,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 24 supplies are shared equally among 9 players. How many supplies are left over?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 5,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 3 points. A risky move doubles your points but costs 8 points as a fee. What is your final score if you take the risk?",
+    "answer": "-2",
+    "acceptedAnswers": [
+      "-2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 6,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 7x + 11 = 25.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 7,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (29 \u00d7 28) \u2212 (4 \u00d7 4). Give the exact number.",
+    "answer": "796",
+    "acceptedAnswers": [
+      "796"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 8,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 12, 16, 20, 24, 28, 32, 36, __. What is the next number?",
+    "answer": "40",
+    "acceptedAnswers": [
+      "40"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 9,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 10, 15, 20, 5, 10. What is their sum?",
+    "answer": "60",
+    "acceptedAnswers": [
+      "60"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 3,
+    "round": 10,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 33 tokens. Team A has 17 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "16",
+    "acceptedAnswers": [
+      "16"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 1,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 7, then subtract 49; the result is 35. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 2,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 3,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 33 supplies are shared equally among 18 players. How many supplies are left over?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 4,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 6 points. A risky move doubles your points but costs 11 points as a fee. What is your final score if you take the risk?",
+    "answer": "1",
+    "acceptedAnswers": [
+      "1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 5,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 21x + 6 = 48.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 6,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (31 \u00d7 38) \u2212 (13 \u00d7 4). Give the exact number.",
+    "answer": "1126",
+    "acceptedAnswers": [
+      "1126"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 7,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 11, 15, 19, 23, 27, 31, 35, 39, 43, 47, __. What is the next number?",
+    "answer": "51",
+    "acceptedAnswers": [
+      "51"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 8,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 9, 14, 19, 4, 9, 14. What is their sum?",
+    "answer": "69",
+    "acceptedAnswers": [
+      "69"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 9,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 32 tokens. Team A has 21 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 4,
+    "round": 10,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 5 rows with 2 gold bars in each row. 5 bars are removed. How many remain?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 1,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 2,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 42 supplies are shared equally among 12 players. How many supplies are left over?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 3,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 9 points. A risky move doubles your points but costs 14 points as a fee. What is your final score if you take the risk?",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 4,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 18x + 14 = 50.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 5,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (33 \u00d7 48) \u2212 (3 \u00d7 4). Give the exact number.",
+    "answer": "1572",
+    "acceptedAnswers": [
+      "1572"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 6,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 10, 14, 18, 22, 26, __. What is the next number?",
+    "answer": "30",
+    "acceptedAnswers": [
+      "30"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 7,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 8, 13, 18, 3, 8, 13, 18. What is their sum?",
+    "answer": "81",
+    "acceptedAnswers": [
+      "81"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 8,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 31 tokens. Team A has 25 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 9,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 8 rows with 11 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "82",
+    "acceptedAnswers": [
+      "82"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 5,
+    "round": 10,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 16; the result is -8. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 1,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 21 supplies are shared equally among 6 players. How many supplies are left over?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 2,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 5 points as a fee. What is your final score if you take the risk?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 3,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 15x + 9 = 39.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 4,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (35 \u00d7 17) \u2212 (12 \u00d7 4). Give the exact number.",
+    "answer": "547",
+    "acceptedAnswers": [
+      "547"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 5,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 9, 13, 17, 21, 25, 29, 33, 37, __. What is the next number?",
+    "answer": "41",
+    "acceptedAnswers": [
+      "41"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 6,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 7, 12, 17, 2, 7, 12, 17, 2. What is their sum?",
+    "answer": "76",
+    "acceptedAnswers": [
+      "76"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 7,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 43 tokens. Team A has 29 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 8,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 11 rows with 10 gold bars in each row. 7 bars are removed. How many remain?",
+    "answer": "103",
+    "acceptedAnswers": [
+      "103"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 9,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 40; the result is 40. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 6,
+    "round": 10,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 1,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 8 points as a fee. What is your final score if you take the risk?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 2,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 12x + 4 = 28.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 3,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (37 \u00d7 27) \u2212 (2 \u00d7 4). Give the exact number.",
+    "answer": "991",
+    "acceptedAnswers": [
+      "991"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 4,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 8, 12, 16, __. What is the next number?",
+    "answer": "20",
+    "acceptedAnswers": [
+      "20"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 5,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 6, 11, 16, 1, 6, 11, 16, 1, 6. What is their sum?",
+    "answer": "74",
+    "acceptedAnswers": [
+      "74"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 6,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 23 tokens. Team A has 14 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "9",
+    "acceptedAnswers": [
+      "9"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 7,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 14 rows with 9 gold bars in each row. 1 bars are removed. How many remain?",
+    "answer": "125",
+    "acceptedAnswers": [
+      "125"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 8,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 16; the result is 16. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 9,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 7,
+    "round": 10,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 40 supplies are shared equally among 10 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 1,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 9x + 12 = 30.",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 2,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (39 \u00d7 37) \u2212 (11 \u00d7 4). Give the exact number.",
+    "answer": "1399",
+    "acceptedAnswers": [
+      "1399"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 3,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 7, 11, 15, 19, 23, 27, __. What is the next number?",
+    "answer": "31",
+    "acceptedAnswers": [
+      "31"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 4,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 5, 10, 15, 20, 5, 10, 15, 20, 5, 10. What is their sum?",
+    "answer": "115",
+    "acceptedAnswers": [
+      "115"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 5,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 35 tokens. Team A has 18 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "17",
+    "acceptedAnswers": [
+      "17"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 6,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 5 rows with 8 gold bars in each row. 2 bars are removed. How many remain?",
+    "answer": "38",
+    "acceptedAnswers": [
+      "38"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 7,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 40; the result is 64. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 8,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 9,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 49 supplies are shared equally among 19 players. How many supplies are left over?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 8,
+    "round": 10,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 9 points as a fee. What is your final score if you take the risk?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 1,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (41 \u00d7 47) \u2212 (20 \u00d7 4). Give the exact number.",
+    "answer": "1847",
+    "acceptedAnswers": [
+      "1847"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 2,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 6, 10, 14, 18, 22, 26, 30, 34, 38, __. What is the next number?",
+    "answer": "42",
+    "acceptedAnswers": [
+      "42"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 3,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 4, 9, 14, 19. What is their sum?",
+    "answer": "46",
+    "acceptedAnswers": [
+      "46"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 4,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 34 tokens. Team A has 22 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "12",
+    "acceptedAnswers": [
+      "12"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 5,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 8 rows with 7 gold bars in each row. 3 bars are removed. How many remain?",
+    "answer": "53",
+    "acceptedAnswers": [
+      "53"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 6,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 16; the result is 40. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 7,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 8,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 28 supplies are shared equally among 13 players. How many supplies are left over?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 9,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 12 points as a fee. What is your final score if you take the risk?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 9,
+    "round": 10,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 16x + 4 = 52.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 1,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 5, 9, 13, 17, __. What is the next number?",
+    "answer": "21",
+    "acceptedAnswers": [
+      "21"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 2,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 3, 8, 13, 18, 3. What is their sum?",
+    "answer": "45",
+    "acceptedAnswers": [
+      "45"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 3,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 33 tokens. Team A has 26 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 4,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 11 rows with 6 gold bars in each row. 4 bars are removed. How many remain?",
+    "answer": "62",
+    "acceptedAnswers": [
+      "62"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 5,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 40; the result is -32. What number am I?",
+    "answer": "-4",
+    "acceptedAnswers": [
+      "-4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 6,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 7,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 37 supplies are shared equally among 7 players. How many supplies are left over?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 8,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 2 points. A risky move doubles your points but costs 3 points as a fee. What is your final score if you take the risk?",
+    "answer": "1",
+    "acceptedAnswers": [
+      "1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 9,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 13x + 12 = 51.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 10,
+    "round": 10,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (53 \u00d7 46) \u2212 (4 \u00d7 4). Give the exact number.",
+    "answer": "2422",
+    "acceptedAnswers": [
+      "2422"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 1,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 2, 7, 12, 17, 2, 7. What is their sum?",
+    "answer": "47",
+    "acceptedAnswers": [
+      "47"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 2,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 26 tokens. Team A has 11 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 3,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 14 rows with 5 gold bars in each row. 5 bars are removed. How many remain?",
+    "answer": "65",
+    "acceptedAnswers": [
+      "65"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 4,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 16; the result is 64. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 5,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 6,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 46 supplies are shared equally among 16 players. How many supplies are left over?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 7,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 5 points. A risky move doubles your points but costs 6 points as a fee. What is your final score if you take the risk?",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 8,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 10x + 7 = 37.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 9,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (55 \u00d7 15) \u2212 (13 \u00d7 4). Give the exact number.",
+    "answer": "773",
+    "acceptedAnswers": [
+      "773"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 11,
+    "round": 10,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 14, 19, 24, 29, 34, 39, 44, 49, 54, __. What is the next number?",
+    "answer": "59",
+    "acceptedAnswers": [
+      "59"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 1,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 25 tokens. Team A has 15 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "10",
+    "acceptedAnswers": [
+      "10"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 2,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 5 rows with 4 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 3,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 40; the result is -8. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 4,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 5,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 25 supplies are shared equally among 10 players. How many supplies are left over?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 6,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 8 points. A risky move doubles your points but costs 9 points as a fee. What is your final score if you take the risk?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 7,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 7x + 15 = 36.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 8,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (57 \u00d7 25) \u2212 (3 \u00d7 4). Give the exact number.",
+    "answer": "1413",
+    "acceptedAnswers": [
+      "1413"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 9,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 13, 18, 23, 28, __. What is the next number?",
+    "answer": "33",
+    "acceptedAnswers": [
+      "33"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 12,
+    "round": 10,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 11, 16, 1, 6, 11, 16, 1, 6, 11, 16. What is their sum?",
+    "answer": "95",
+    "acceptedAnswers": [
+      "95"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 1,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 8 rows with 3 gold bars in each row. 7 bars are removed. How many remain?",
+    "answer": "17",
+    "acceptedAnswers": [
+      "17"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 2,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 16; the result is 88. What number am I?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 3,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 4,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 34 supplies are shared equally among 19 players. How many supplies are left over?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 5,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 3 points. A risky move doubles your points but costs 12 points as a fee. What is your final score if you take the risk?",
+    "answer": "-6",
+    "acceptedAnswers": [
+      "-6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 6,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 21x + 10 = 73.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 7,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (59 \u00d7 35) \u2212 (12 \u00d7 4). Give the exact number.",
+    "answer": "2017",
+    "acceptedAnswers": [
+      "2017"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 8,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 12, 17, 22, 27, 32, 37, 42, __. What is the next number?",
+    "answer": "47",
+    "acceptedAnswers": [
+      "47"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 9,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 10, 15, 20, 5. What is their sum?",
+    "answer": "50",
+    "acceptedAnswers": [
+      "50"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 13,
+    "round": 10,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 44 tokens. Team A has 29 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 1,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 8, then subtract 40; the result is 16. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 2,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 3,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 43 supplies are shared equally among 13 players. How many supplies are left over?",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 4,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 6 points. A risky move doubles your points but costs 3 points as a fee. What is your final score if you take the risk?",
+    "answer": "9",
+    "acceptedAnswers": [
+      "9"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 5,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 18x + 5 = 59.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 6,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (61 \u00d7 45) \u2212 (2 \u00d7 4). Give the exact number.",
+    "answer": "2737",
+    "acceptedAnswers": [
+      "2737"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 7,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 11, 16, 21, 26, 31, 36, 41, 46, 51, 56, __. What is the next number?",
+    "answer": "61",
+    "acceptedAnswers": [
+      "61"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 8,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 9, 14, 19, 4, 9. What is their sum?",
+    "answer": "55",
+    "acceptedAnswers": [
+      "55"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 9,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 24 tokens. Team A has 14 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "10",
+    "acceptedAnswers": [
+      "10"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 14,
+    "round": 10,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 9 rows with 2 gold bars in each row. 4 bars are removed. How many remain?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 1,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 2,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 22 supplies are shared equally among 7 players. How many supplies are left over?",
+    "answer": "1",
+    "acceptedAnswers": [
+      "1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 3,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 9 points. A risky move doubles your points but costs 6 points as a fee. What is your final score if you take the risk?",
+    "answer": "12",
+    "acceptedAnswers": [
+      "12"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 4,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 15x + 13 = 58.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 5,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (63 \u00d7 14) \u2212 (11 \u00d7 4). Give the exact number.",
+    "answer": "838",
+    "acceptedAnswers": [
+      "838"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 6,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 10, 15, 20, 25, 30, __. What is the next number?",
+    "answer": "35",
+    "acceptedAnswers": [
+      "35"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 7,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 8, 13, 18, 3, 8, 13. What is their sum?",
+    "answer": "63",
+    "acceptedAnswers": [
+      "63"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 8,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 23 tokens. Team A has 18 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 9,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 12 rows with 11 gold bars in each row. 5 bars are removed. How many remain?",
+    "answer": "127",
+    "acceptedAnswers": [
+      "127"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 15,
+    "round": 10,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 54; the result is 45. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 1,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 31 supplies are shared equally among 16 players. How many supplies are left over?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 2,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 9 points as a fee. What is your final score if you take the risk?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 3,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 12x + 8 = 44.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 4,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (65 \u00d7 24) \u2212 (20 \u00d7 4). Give the exact number.",
+    "answer": "1480",
+    "acceptedAnswers": [
+      "1480"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 5,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 9, 14, 19, 24, 29, 34, 39, 44, __. What is the next number?",
+    "answer": "49",
+    "acceptedAnswers": [
+      "49"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 6,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 7, 12, 17, 2, 7, 12, 17. What is their sum?",
+    "answer": "74",
+    "acceptedAnswers": [
+      "74"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 7,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 35 tokens. Team A has 22 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "13",
+    "acceptedAnswers": [
+      "13"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 8,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 3 rows with 10 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "24",
+    "acceptedAnswers": [
+      "24"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 9,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 27; the result is 18. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 16,
+    "round": 10,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 1,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 12 points as a fee. What is your final score if you take the risk?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 2,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 9x + 16 = 43.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 3,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (67 \u00d7 34) \u2212 (10 \u00d7 4). Give the exact number.",
+    "answer": "2238",
+    "acceptedAnswers": [
+      "2238"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 4,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 8, 13, 18, __. What is the next number?",
+    "answer": "23",
+    "acceptedAnswers": [
+      "23"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 5,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 6, 11, 16, 1, 6, 11, 16, 1. What is their sum?",
+    "answer": "68",
+    "acceptedAnswers": [
+      "68"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 6,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 34 tokens. Team A has 26 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 7,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 6 rows with 9 gold bars in each row. 7 bars are removed. How many remain?",
+    "answer": "47",
+    "acceptedAnswers": [
+      "47"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 8,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 54; the result is 72. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 9,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 17,
+    "round": 10,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 20 supplies are shared equally among 5 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 1,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 23x + 11 = 80.",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 2,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (69 \u00d7 44) \u2212 (19 \u00d7 4). Give the exact number.",
+    "answer": "2960",
+    "acceptedAnswers": [
+      "2960"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 3,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 7, 12, 17, 22, 27, 32, __. What is the next number?",
+    "answer": "37",
+    "acceptedAnswers": [
+      "37"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 4,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 5, 10, 15, 20, 5, 10, 15, 20, 5. What is their sum?",
+    "answer": "105",
+    "acceptedAnswers": [
+      "105"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 5,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 27 tokens. Team A has 11 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "16",
+    "acceptedAnswers": [
+      "16"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 6,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 9 rows with 8 gold bars in each row. 1 bars are removed. How many remain?",
+    "answer": "71",
+    "acceptedAnswers": [
+      "71"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 7,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 27; the result is 45. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 8,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 9,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 29 supplies are shared equally among 14 players. How many supplies are left over?",
+    "answer": "1",
+    "acceptedAnswers": [
+      "1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 18,
+    "round": 10,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 13 points as a fee. What is your final score if you take the risk?",
+    "answer": "-5",
+    "acceptedAnswers": [
+      "-5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 1,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (71 \u00d7 13) \u2212 (9 \u00d7 4). Give the exact number.",
+    "answer": "887",
+    "acceptedAnswers": [
+      "887"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 2,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 6, 11, 16, 21, 26, 31, 36, 41, 46, __. What is the next number?",
+    "answer": "51",
+    "acceptedAnswers": [
+      "51"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 3,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 4, 9, 14, 19, 4, 9, 14, 19, 4, 9. What is their sum?",
+    "answer": "105",
+    "acceptedAnswers": [
+      "105"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 4,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 26 tokens. Team A has 15 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 5,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 12 rows with 7 gold bars in each row. 2 bars are removed. How many remain?",
+    "answer": "82",
+    "acceptedAnswers": [
+      "82"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 6,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 54; the result is -36. What number am I?",
+    "answer": "-4",
+    "acceptedAnswers": [
+      "-4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 7,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 8,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 38 supplies are shared equally among 8 players. How many supplies are left over?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 9,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 4 points as a fee. What is your final score if you take the risk?",
+    "answer": "10",
+    "acceptedAnswers": [
+      "10"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 19,
+    "round": 10,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 13x + 16 = 68.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 1,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 5, 10, 15, 20, __. What is the next number?",
+    "answer": "25",
+    "acceptedAnswers": [
+      "25"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 2,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 3, 8, 13, 18. What is their sum?",
+    "answer": "42",
+    "acceptedAnswers": [
+      "42"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 3,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 25 tokens. Team A has 19 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 4,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 3 rows with 6 gold bars in each row. 3 bars are removed. How many remain?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 5,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 27; the result is 72. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 6,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 7,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 47 supplies are shared equally among 17 players. How many supplies are left over?",
+    "answer": "13",
+    "acceptedAnswers": [
+      "13"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 8,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 2 points. A risky move doubles your points but costs 7 points as a fee. What is your final score if you take the risk?",
+    "answer": "-3",
+    "acceptedAnswers": [
+      "-3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 9,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 10x + 11 = 51.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 20,
+    "round": 10,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (83 \u00d7 12) \u2212 (12 \u00d7 4). Give the exact number.",
+    "answer": "948",
+    "acceptedAnswers": [
+      "948"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 1,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 2, 7, 12, 17, 2. What is their sum?",
+    "answer": "40",
+    "acceptedAnswers": [
+      "40"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 2,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 37 tokens. Team A has 23 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 3,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 6 rows with 5 gold bars in each row. 4 bars are removed. How many remain?",
+    "answer": "26",
+    "acceptedAnswers": [
+      "26"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 4,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 54; the result is -9. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 5,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 6,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 26 supplies are shared equally among 11 players. How many supplies are left over?",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 7,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 5 points. A risky move doubles your points but costs 10 points as a fee. What is your final score if you take the risk?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 8,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 7x + 6 = 34.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 9,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (85 \u00d7 22) \u2212 (2 \u00d7 4). Give the exact number.",
+    "answer": "1862",
+    "acceptedAnswers": [
+      "1862"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 21,
+    "round": 10,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 14, 20, 26, 32, 38, 44, 50, 56, 62, __. What is the next number?",
+    "answer": "68",
+    "acceptedAnswers": [
+      "68"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 1,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 36 tokens. Team A has 27 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "9",
+    "acceptedAnswers": [
+      "9"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 2,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 9 rows with 4 gold bars in each row. 5 bars are removed. How many remain?",
+    "answer": "31",
+    "acceptedAnswers": [
+      "31"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 3,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 27; the result is 99. What number am I?",
+    "answer": "11",
+    "acceptedAnswers": [
+      "11"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 4,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 5,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 35 supplies are shared equally among 5 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 6,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 8 points. A risky move doubles your points but costs 13 points as a fee. What is your final score if you take the risk?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 7,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 21x + 14 = 98.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 8,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (87 \u00d7 32) \u2212 (11 \u00d7 4). Give the exact number.",
+    "answer": "2740",
+    "acceptedAnswers": [
+      "2740"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 9,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 13, 19, 25, 31, __. What is the next number?",
+    "answer": "37",
+    "acceptedAnswers": [
+      "37"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 22,
+    "round": 10,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 11, 16, 1, 6, 11, 16, 1, 6, 11. What is their sum?",
+    "answer": "79",
+    "acceptedAnswers": [
+      "79"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 1,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 12 rows with 3 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "30",
+    "acceptedAnswers": [
+      "30"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 2,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 54; the result is 18. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 3,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 4,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 44 supplies are shared equally among 14 players. How many supplies are left over?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 5,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 3 points. A risky move doubles your points but costs 4 points as a fee. What is your final score if you take the risk?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 6,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 18x + 9 = 81.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 7,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (89 \u00d7 42) \u2212 (20 \u00d7 4). Give the exact number.",
+    "answer": "3658",
+    "acceptedAnswers": [
+      "3658"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 8,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 12, 18, 24, 30, 36, 42, 48, __. What is the next number?",
+    "answer": "54",
+    "acceptedAnswers": [
+      "54"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 9,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 10, 15, 20, 5, 10, 15, 20, 5, 10, 15. What is their sum?",
+    "answer": "125",
+    "acceptedAnswers": [
+      "125"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 23,
+    "round": 10,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 36 tokens. Team A has 22 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "14",
+    "acceptedAnswers": [
+      "14"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 1,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 9, then subtract 27; the result is -9. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 2,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 3,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 23 supplies are shared equally among 8 players. How many supplies are left over?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 4,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 6 points. A risky move doubles your points but costs 7 points as a fee. What is your final score if you take the risk?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 5,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 15x + 4 = 64.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 6,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (91 \u00d7 11) \u2212 (10 \u00d7 4). Give the exact number.",
+    "answer": "961",
+    "acceptedAnswers": [
+      "961"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 7,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 11, 17, 23, 29, 35, 41, 47, 53, 59, 65, __. What is the next number?",
+    "answer": "71",
+    "acceptedAnswers": [
+      "71"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 8,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 9, 14, 19, 4. What is their sum?",
+    "answer": "46",
+    "acceptedAnswers": [
+      "46"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 9,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 35 tokens. Team A has 26 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "9",
+    "acceptedAnswers": [
+      "9"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 24,
+    "round": 10,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 13 rows with 2 gold bars in each row. 3 bars are removed. How many remain?",
+    "answer": "23",
+    "acceptedAnswers": [
+      "23"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 1,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 2,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 32 supplies are shared equally among 17 players. How many supplies are left over?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 3,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 9 points. A risky move doubles your points but costs 10 points as a fee. What is your final score if you take the risk?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 4,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 12x + 12 = 60.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 5,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (93 \u00d7 21) \u2212 (19 \u00d7 4). Give the exact number.",
+    "answer": "1877",
+    "acceptedAnswers": [
+      "1877"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 6,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 10, 16, 22, 28, 34, __. What is the next number?",
+    "answer": "40",
+    "acceptedAnswers": [
+      "40"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 7,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 8, 13, 18, 3, 8. What is their sum?",
+    "answer": "50",
+    "acceptedAnswers": [
+      "50"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 8,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 28 tokens. Team A has 11 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "17",
+    "acceptedAnswers": [
+      "17"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 9,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 4 rows with 11 gold bars in each row. 4 bars are removed. How many remain?",
+    "answer": "40",
+    "acceptedAnswers": [
+      "40"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 25,
+    "round": 10,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 40; the result is 20. What number am I?",
+    "answer": "2",
+    "acceptedAnswers": [
+      "2"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 1,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 41 supplies are shared equally among 11 players. How many supplies are left over?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 2,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 13 points as a fee. What is your final score if you take the risk?",
+    "answer": "-5",
+    "acceptedAnswers": [
+      "-5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 3,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 9x + 7 = 43.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 4,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (95 \u00d7 31) \u2212 (9 \u00d7 4). Give the exact number.",
+    "answer": "2909",
+    "acceptedAnswers": [
+      "2909"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 5,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 9, 15, 21, 27, 33, 39, 45, 51, __. What is the next number?",
+    "answer": "57",
+    "acceptedAnswers": [
+      "57"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 6,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 7, 12, 17, 2, 7, 12. What is their sum?",
+    "answer": "57",
+    "acceptedAnswers": [
+      "57"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 7,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 27 tokens. Team A has 15 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "12",
+    "acceptedAnswers": [
+      "12"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 8,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 7 rows with 10 gold bars in each row. 5 bars are removed. How many remain?",
+    "answer": "65",
+    "acceptedAnswers": [
+      "65"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 9,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 70; the result is 80. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 26,
+    "round": 10,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 1,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 4 points as a fee. What is your final score if you take the risk?",
+    "answer": "10",
+    "acceptedAnswers": [
+      "10"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 2,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 23x + 15 = 107.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 3,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (97 \u00d7 41) \u2212 (18 \u00d7 4). Give the exact number.",
+    "answer": "3905",
+    "acceptedAnswers": [
+      "3905"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 4,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 8, 14, 20, __. What is the next number?",
+    "answer": "26",
+    "acceptedAnswers": [
+      "26"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 5,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 6, 11, 16, 1, 6, 11, 16. What is their sum?",
+    "answer": "67",
+    "acceptedAnswers": [
+      "67"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 6,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 26 tokens. Team A has 19 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 7,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 10 rows with 9 gold bars in each row. 6 bars are removed. How many remain?",
+    "answer": "84",
+    "acceptedAnswers": [
+      "84"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 8,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 40; the result is 50. What number am I?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 9,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 27,
+    "round": 10,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 30 supplies are shared equally among 15 players. How many supplies are left over?",
+    "answer": "0",
+    "acceptedAnswers": [
+      "0"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 1,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 20x + 10 = 90.",
+    "answer": "4",
+    "acceptedAnswers": [
+      "4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 2,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (99 \u00d7 10) \u2212 (8 \u00d7 4). Give the exact number.",
+    "answer": "958",
+    "acceptedAnswers": [
+      "958"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 3,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 7, 13, 19, 25, 31, 37, __. What is the next number?",
+    "answer": "43",
+    "acceptedAnswers": [
+      "43"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 4,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 5, 10, 15, 20, 5, 10, 15, 20. What is their sum?",
+    "answer": "100",
+    "acceptedAnswers": [
+      "100"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 5,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 38 tokens. Team A has 23 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "15",
+    "acceptedAnswers": [
+      "15"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 6,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 13 rows with 8 gold bars in each row. 7 bars are removed. How many remain?",
+    "answer": "97",
+    "acceptedAnswers": [
+      "97"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 7,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 70; the result is -40. What number am I?",
+    "answer": "-4",
+    "acceptedAnswers": [
+      "-4"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 8,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 9,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 39 supplies are shared equally among 9 players. How many supplies are left over?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 28,
+    "round": 10,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 4 points. A risky move doubles your points but costs 5 points as a fee. What is your final score if you take the risk?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 1,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (101 \u00d7 20) \u2212 (17 \u00d7 4). Give the exact number.",
+    "answer": "1952",
+    "acceptedAnswers": [
+      "1952"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 2,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 6, 12, 18, 24, 30, 36, 42, 48, 54, __. What is the next number?",
+    "answer": "60",
+    "acceptedAnswers": [
+      "60"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 3,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 4, 9, 14, 19, 4, 9, 14, 19, 4. What is their sum?",
+    "answer": "96",
+    "acceptedAnswers": [
+      "96"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 4,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 37 tokens. Team A has 27 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "10",
+    "acceptedAnswers": [
+      "10"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 5,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 4 rows with 7 gold bars in each row. 1 bars are removed. How many remain?",
+    "answer": "27",
+    "acceptedAnswers": [
+      "27"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 6,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 40; the result is 80. What number am I?",
+    "answer": "8",
+    "acceptedAnswers": [
+      "8"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 7,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 8,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 48 supplies are shared equally among 18 players. How many supplies are left over?",
+    "answer": "12",
+    "acceptedAnswers": [
+      "12"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 9,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 7 points. A risky move doubles your points but costs 8 points as a fee. What is your final score if you take the risk?",
+    "answer": "6",
+    "acceptedAnswers": [
+      "6"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 29,
+    "round": 10,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 10x + 15 = 65.",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 1,
+    "category": "Golden Final Showdown",
+    "xp": 5000,
+    "question": "Complete the sequence: 5, 11, 17, 23, __. What is the next number?",
+    "answer": "29",
+    "acceptedAnswers": [
+      "29"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 2,
+    "category": "Golden Intelligence",
+    "xp": 500,
+    "question": "Memory challenge: memorize these numbers: 3, 8, 13, 18, 3, 8, 13, 18, 3, 8. What is their sum?",
+    "answer": "95",
+    "acceptedAnswers": [
+      "95"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 3,
+    "category": "Golden Puzzle",
+    "xp": 1000,
+    "question": "A team has 17 tokens. Team A has 12 more tokens than Team B. How many tokens does Team B have?",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 4,
+    "category": "Golden Memory",
+    "xp": 1500,
+    "question": "Jackpot calculation: A vault has 7 rows with 6 gold bars in each row. 2 bars are removed. How many remain?",
+    "answer": "40",
+    "acceptedAnswers": [
+      "40"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 5,
+    "category": "Golden Strategy",
+    "xp": 2000,
+    "question": "Mystery: I am a number. Multiply me by 10, then subtract 70; the result is -10. What number am I?",
+    "answer": "-1",
+    "acceptedAnswers": [
+      "-1"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 6,
+    "category": "Golden Jackpot",
+    "xp": 3000,
+    "question": "Wordplay: How many letters are in the word 'MYSTERY'?",
+    "answer": "7",
+    "acceptedAnswers": [
+      "7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 7,
+    "category": "Golden Mystery",
+    "xp": 1000,
+    "question": "Survival ration puzzle: 27 supplies are shared equally among 12 players. How many supplies are left over?",
+    "answer": "3",
+    "acceptedAnswers": [
+      "3"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 8,
+    "category": "Golden Wordplay",
+    "xp": 1500,
+    "question": "Risk decision: You have 2 points. A risky move doubles your points but costs 11 points as a fee. What is your final score if you take the risk?",
+    "answer": "-7",
+    "acceptedAnswers": [
+      "-7"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 9,
+    "category": "Golden Survival",
+    "xp": 2000,
+    "question": "Final showdown: Solve for x: 7x + 10 = 45.",
+    "answer": "5",
+    "acceptedAnswers": [
+      "5"
+    ],
+    "difficulty": "Very Challenging"
+  },
+  {
+    "set": 30,
+    "round": 10,
+    "category": "Golden Risk",
+    "xp": 2500,
+    "question": "Calculate: (16 \u00d7 19) \u2212 (20 \u00d7 4). Give the exact number.",
+    "answer": "224",
+    "acceptedAnswers": [
+      "224"
+    ],
+    "difficulty": "Very Challenging"
+  }
+]
