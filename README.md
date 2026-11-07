@@ -1,17 +1,17 @@
 # SEY GAMERZ GOLDEN ARENA — GOLDEN CLASH
 
-A new black-and-gold real-time multiplayer browser game for two teams of three.
+A new black-and-gold real-time multiplayer browser game for two teams with 1–3 players per team.
 
 ## Included
 - Host creates a private room and shares its 6-character room code.
-- Six players join on their own phones (3 per team).
+- Players join on their own phones. Start with just 1 player on Team A and 1 on Team B; maximum 3 players per team.
 - Team captain selection.
-- Host dashboard to publish custom questions or the built-in bank questions.
+- All 300 questions and answers are preloaded. Host never types questions or answers.
 - 30 sets × 10 rounds = 300 rounds in `data/questions.json`.
 - Ten rotating battle categories and XP rewards.
-- First correct answer wins the round and automatically awards the round XP to that team.
+- Players submit answers; host reveals the prepared answer, selects Team A or Team B as winner, and the game awards that team's XP.
 - Incorrect answers earn no XP; opponents can keep trying while the round is live.
-- Host reveal, timer, next-round and score reset controls.
+- Host starts/stops timer, reveals answer, selects winning team for XP, advances to next round, and resets scores.
 - Mobile responsive interface and `/health` endpoint.
 
 ## Battle categories / XP
@@ -50,12 +50,12 @@ Open `http://localhost:3000` on the host computer. To test phones on the same Wi
 ## Important prototype / tournament notes
 - This version uses in-memory room state. If Render restarts or redeploys, active rooms and scores are lost. Do not run a high-stakes tournament until persistent storage is added.
 - Host room codes are for casual private rooms, not secure authentication. Anyone with the code can join until the room fills.
-- The host must manually start the timer; when it reaches zero, submissions are blocked only if the host has not let the round continue? **Current behavior:** timer reaches zero and displays Time is up, but the answer submission remains enabled until the host reveals or moves on. Host should reveal/advance promptly. (A production version should enforce timer expiry server-side.)
+- The timer is controlled by the host. Once it reaches zero, player answer submissions stop.
 - This is a playable starter package, not yet load-tested for a large event. Test with six devices and a rehearsal room before the live tournament.
-- Use the host's **Publish Bank Question** button to load the current set/round question. Or type a custom question and answer.
+- Questions and answers load automatically when the game starts and after each Next Round.
 - If you edit `data/questions.json`, keep the fields `set`, `round`, `category`, `xp`, `question`, `answer`, and `acceptedAnswers`.
 
 ## Controls
-**Host:** Create room → wait for six players (3 per team) → Start Game → Publish Bank Question or custom question → Start Timer → Reveal Answer → Next Round.
+**Host:** Create room → wait for six players (3 per team) → Start Game → Start Timer → Stop Timer if needed → Reveal Answer → Select winning team → Next Round.
 
 **Players:** Enter room code, name, team → Join → optionally choose captain → submit answer while round is live.
