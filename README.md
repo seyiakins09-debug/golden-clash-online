@@ -1,15 +1,29 @@
-# Golden Clash Online — GitHub + Render
+# GOLDEN CLASH — Online Multiplayer v2
 
-## Deploy
-1. Create a GitHub repository `golden-clash-online`.
-2. Upload all files in this project to the repository root.
-3. In Render choose **New → Web Service**, connect the GitHub repo.
-4. Runtime: **Node**; Build command: `npm install`; Start command: `npm start`; Health check: `/healthz`.
-5. Deploy and open the provided `https://...onrender.com` URL on host and player devices.
+This is an updated GitHub + Render version with separate host/player login, answer submission, sequential 10-round sets, 40-second round timer, host answer verification/reveal, and automatic XP award for the selected winner.
 
-## Local run
-Install Node.js, run `npm install`, then `npm start`; open http://localhost:10000.
+## Deploy on Render
+1. Upload the contents of this folder to your GitHub repository (replace the old files).
+2. In Render, open your existing Web Service and confirm:
+   - Runtime: Node
+   - Build command: `npm install`
+   - Start command: `npm start`
+3. Deploy latest commit and open your Render URL.
 
-## Prototype notes
-This uses Socket.IO for live shared room updates. Rooms and XP live in server memory only and are deleted when host resets; a server restart/redeploy also clears active sessions. The embedded question bank has 3 sample sets and repeats them modulo 3; it is not yet the complete 30-set content bank. Host PIN is a simple prototype PIN, not production-grade account security. Do not use a valuable PIN.
-Render supports WebSockets. Free services may spin down after inactivity, causing reconnect/warm-up delays.
+## Host
+- Host Login → enter host name and PIN → Create new room.
+- For returning host, enter room code + same PIN and use “Host login to existing room”.
+- Share room code with players.
+- Start a set. Use **Next round** to open rounds in order.
+- Each round is 40 seconds. Players submit answers while it is open.
+- Reveal answer, review submitted answers, select the correct player, and award round XP. XP is automatically based on the round's XP value.
+- Finish set or reset room.
+
+## Players
+- Player Login → enter name and host's room code.
+- Submit answers in the visible answer box while round is open.
+
+## Important
+- This is a prototype question generator, not the final authored 300-question bank yet. It generates set-specific variants across 30 sets and 10 rounds.
+- Room/player/XP data is stored in server memory and is cleared if the service restarts or room is reset. This is intentionally session-only.
+- The host PIN is basic prototype authentication. Do not use a valuable password.
