@@ -1,8 +1,4 @@
-# GOLDEN CLASH v3 — GitHub + Render
-Fixes:
-- Reveal answer works after timer ends or host closes round, as long as a round challenge exists.
-- Room access/login section disappears after host or player joins.
-- Removed the Shared Game Board round-card panel from both screens.
-- Room code remains visible in its own small panel for sharing.
-- Current challenge/question and leaderboard remain.
-Deploy by replacing repository files and deploying latest commit in Render.
+# GOLDEN CLASH v4 — Host dashboard visibility fix
+Important fix: Host controls are now in a separate dashboard section, not nested inside the Room Access panel. When host login hides Room Access, the host dashboard remains visible.
+Players still do not see host controls. This keeps the room access/login section hidden after joining, while the host can manage the game.
+Deploy this version by replacing GitHub repository files and deploying on Render.
